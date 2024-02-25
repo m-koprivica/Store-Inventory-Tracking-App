@@ -1,0 +1,10 @@
+{
+    "threshold": 15,
+    "products": [{
+        "quantityMaximum": 10,
+        "quantityAvailable": 5,
+        "cost": 1,
+        "name": "A",
+        "quantitySold": 5
+    }]
+}

@@ -1,0 +1,26 @@
+{
+    "threshold": 15,
+    "products": [
+        {
+            "quantityMaximum": 50,
+            "quantityAvailable": 25,
+            "cost": 1,
+            "name": "Apple",
+            "quantitySold": 25
+        },
+        {
+            "quantityMaximum": 30,
+            "quantityAvailable": 0,
+            "cost": 1.5,
+            "name": "Banana",
+            "quantitySold": 30
+        },
+        {
+            "quantityMaximum": 10,
+            "quantityAvailable": 1,
+            "cost": 99.99,
+            "name": "Strawberry",
+            "quantitySold": 9
+        }
+    ]
+}
